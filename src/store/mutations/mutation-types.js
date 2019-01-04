@@ -1,0 +1,7 @@
+export const USERNAME = "USERNAME"
+export const TOUXIANG = "TOUXIANG"
+export const JIANJIE = "JIANJIE"
+export const GUANZHU = "GUANZHU"
+export const FENSI = "FENSI"
+export const CITY = "CITY"
+export const GENDER = "GENDER"
